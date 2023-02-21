@@ -1,5 +1,5 @@
-import IMG1 from '../assets/portfolio1.jpg'
-import IMG2 from '../assets/portfolio2.jpg'
+import IMG1 from '../assets/portfolio1.png'
+import IMG2 from '../assets/portfolio2.png'
 import IMG3 from '../assets/portfolio3.jpg'
 import IMG4 from '../assets/portfolio4.jpg'
 import IMG5 from '../assets/portfolio5.jpg'
@@ -10,25 +10,25 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Financial Consulting - Ramos Capital | WP',
-        github: 'https://github.com/alexisxz',
-        demo: 'https://ramoscapital.com.br/'
+        title: 'OOS Brasil with NextJS and Firebase',
+        github: 'https://github.com/alexisxz/oos-brasil',
+        demo: 'https://oos-brasil.vercel.app/'
     },
 
     {
         id: 2,
         image: IMG2,
-        title: 'Travel, Photography Blog - Desbravei | WP',
-        github: 'https://github.com',
-        demo: 'https://desbravei.com/'
+        title: 'Pforzheim Jobs with NextJS and Firebase',
+        github: 'https://github.com/alexisxz/jobs-pfzorheim',
+        demo: 'https://jobs-pfzorheim.vercel.app/'
     },
 
     {
         id: 3,
         image: IMG3,
-        title: 'Cleaning Company in Germany - Shema | React',
-        github: 'https://github.com/alexisxz/cleaning-react-website',
-        demo: 'https://www.figma.com/file/i6dJMeLZtgmlH3yxqspgAv/Cleaning-WebPage?node-id=0%3A1'
+        title: 'Hotel Management System with NextJS',
+        github: 'https://github.com/alexisxz/hotel-management-system',
+        demo: ''
     },
 
     {
@@ -40,19 +40,19 @@ const data = [
     },
 
     {
-        id: 6,
+        id: 5,
         image: IMG5,
-        title: 'Gym website | React',
-        github: 'https://github.com/alexisxz/gym-website',
-        demo: 'https://github.com/alexisxz/gym-website'
+        title: 'ATS System with Vite',
+        github: 'https://github.com/alexisxz/ats-system-typescript',
+        demo: ''
     },
 
     {
         id: 6,
         image: IMG6,
-        title: 'Space Travel website | React',
+        title: 'Shema (A cleaning company in Germany) with Vanilla React',
         github: 'https://github.com/alexisxz/space-travel-website',
-        demo: 'https://github.com/alexisxz/space-travel-website'
+        demo: 'https://www.figma.com/file/i6dJMeLZtgmlH3yxqspgAv/Cleaning-WebPage?node-id=0%3A1'
     }
 ]
 

@@ -31,7 +31,7 @@ export const backendData = [
         level: "Intermediate"
     },
     {
-        skill: "SQL (SQLite, PostgreSQL",
+        skill: "SQL (SQLite, PostgreSQL)",
         level: "Basic"
     },
 ]

@@ -43,19 +43,16 @@ const Services = () => {
                             <p>Apps</p>
                         </li>
                         <li>
-                            <p>Web softwares</p>
+                            <p>Web Softwares</p>
                         </li>
                         <li>
                             <p>RPA | Bots</p>
                         </li>
                         <li>
-                            <p>Wordpress</p>
-                        </li>
-                        <li>
                             <p>SEO</p>
                         </li>
                         <li>
-                            <p>Web project migration</p>
+                            <p>Web Project Migration</p>
                         </li>
                     </ul>
                 </article>

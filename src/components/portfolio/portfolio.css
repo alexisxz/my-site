@@ -10,6 +10,8 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    display: flex;
+    flex-direction: column ;
 }
 
 .portfolio__item:hover {
@@ -30,6 +32,7 @@
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+    margin-top: auto;
 }
 
 /* ======================== MEDIA QUERIES (MEDIUM DEVIES) ======================== */

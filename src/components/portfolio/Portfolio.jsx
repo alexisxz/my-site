@@ -19,12 +19,16 @@ const Portfolio = () => {
                                 <h3>{title}</h3>
                                 <div className="portfolio__item-cta">
                                     <a href={github} className='btn' target='__blank'>GitHub</a>
-                                    <a href={demo} className='btn btn-primary' target='__blank'>Live</a>
+                                    {demo ? (<a href={demo} className='btn btn-primary' target='__blank'>Live</a>) : ''}
                                 </div>
                             </article>
                         )
                     })
                 }
+
+            </div>
+            <div>
+                <a href="https://github.com/stars/alexisxz/lists/portfolio" className="btn" target='_blank' rel="noreferrer" >More...</a>
             </div>
         </section>
     )
