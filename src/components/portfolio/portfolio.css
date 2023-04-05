@@ -35,6 +35,17 @@
     margin-top: auto;
 }
 
+.btn-portfolio__container {
+    display: flex;
+    justify-content: end;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+.portfolio__btn {
+    
+}
+
 /* ======================== MEDIA QUERIES (MEDIUM DEVIES) ======================== */
 @media screen and (max-width: 1024px) {
     .portfolio__container {
