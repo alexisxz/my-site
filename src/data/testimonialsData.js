@@ -19,7 +19,7 @@ const data = [
         avatar: AVTR3,
         name: 'Adriano Ramos - Ramos Capital',
         review: 'The result of my business increased a lot with my new website',
-        link: 'https://instagram.com/ramosmotiva?igshid=YmMyMTA2M2Y='
+        link: 'https://www.instagram.com/ramosxcapital/'
     },
 ]
 
