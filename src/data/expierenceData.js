@@ -27,6 +27,10 @@ export const frontendData = [
 
 export const backendData = [
   {
+    skill: "Node.js",
+    level: "Experienced",
+  },
+  {
     skill: "Firebase",
     level: "Intermediate",
   },
